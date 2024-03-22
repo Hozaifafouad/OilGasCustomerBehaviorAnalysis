@@ -1,0 +1,70 @@
+﻿LogType_Id,LogType,IsAccumlation
+1,Redemption,0
+2,Bill Reward,1
+3,Refund Redemption,1
+4,Canceled Accumulation,0
+5,Expired Points,0
+8,Customized Bonus Points,1
+9,Retention,1
+11,Opt In,1
+12,Opt Out,0
+17,Referral Bonus Points,1
+19,Adjustment,1
+20,Wallet Activation,1
+21,Wallet Deactivation,0
+22,"Canceled Retention ",0
+23,"Canceled Adjustment
+",0
+24,"Canceled Customized Bonus Points
+",0
+42,SubscribeToOffer,1
+47,ADAM ROCKS,1
+48,Opel Adam Rock,1
+49,Astra,1
+50,CASCADA,1
+51,CORSA,1
+52,CORSA BS,1
+53,Crossland,1
+54,ESSENTIA,1
+55,INSIGNIA,1
+56,MERIVA,1
+57,MOKKA,1
+58,OMEGA,1
+59,OPEL,1
+60,OPLFRO,1
+61,Other Mark / Model,1
+62,TIGRA,1
+63,VECTRA,1
+64,ZAFIRA,1
+65,AMERICAN,1
+66,AVEO,1
+67,CADILLAC,1
+68,CAMARO,1
+69,CAPTIVA,1
+70,CORVET,1
+71,CRUZE,1
+72,EPICA,1
+73,Equinox,1
+74,FRONT,1
+75,GMC,1
+76,HUMMER,1
+77,LANOS,1
+78,OPTRA,1
+79,Other Mark / Model,1
+80,SONIC,1
+81,SPARK,1
+82,TAHOE,1
+83,TRAVIS,1
+84,F-SERIES,1
+85,FSR,1
+86,FVR,1
+87,ISUZU,1
+88,ISUZU FSR,1
+89,MOVE,1
+90,N300,1
+91,N200,1
+92,N Series,1
+93,N-SERIES,1
+94,N-Series,1
+95,RT95,1
+96,T-SERIES,1

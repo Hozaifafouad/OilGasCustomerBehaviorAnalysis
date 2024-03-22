@@ -1,0 +1,5 @@
+﻿TransactionTypeId,TransactionType
+1,Redemption
+2,Accumulation
+3,Refund
+4,Cancelled
